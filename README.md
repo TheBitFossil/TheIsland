@@ -35,13 +35,14 @@ Due to size this repo shows only the AI and Behavior-Tree implementation. If you
 see the full project please follow the installation instructions.
 
 # Responsibilities
-* Characer Locomotion
+* Multiplayer Integration
 * Implemented <a href ="https://github.com/TheBitFossil/TheIsland/tree/master/Content/Source/AI/Wolf">AI</a> with 
-    * Behavior Trees.
+    * Behavior Trees, EQS
     * Locomotion
     * Sound Effects
 * Character
     * Shooting mechanic
+    * Locomotion
 * Day Night Cycle
  
 # Build and Installation
